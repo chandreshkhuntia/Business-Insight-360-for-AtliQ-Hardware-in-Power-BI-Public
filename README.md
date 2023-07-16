@@ -3,7 +3,7 @@
 Build Business Insight 360 Dashboard in Power BI for Various Department of AtiQ Hardware
 Domain : Consumer Goods
 ```
-Link to [Interactive Dashboard]()
+Link to [Interactive Dashboard](https://www.novypro.com/project/atliq-hardware-business-insights-360-power-bi)
 
 Link to [Presentation](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
@@ -171,29 +171,23 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Finance View
 
-![Finace.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Finace.gif)
+![Finace.gif](https://github.com/chandreshkhuntia/Business-Insight-360-for-AtliQ-Hardware-in-Power-BI-Public/blob/main/Finace.gif)
 ## Sales View
 
-![Sales.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Sales.gif)
+![Sales.gif](https://github.com/chandreshkhuntia/Business-Insight-360-for-AtliQ-Hardware-in-Power-BI-Public/blob/main/Sales.gif)
 
 ## Marketing View
 
-![Marketing.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Marketing.gif)
+![Marketing.gif](https://github.com/chandreshkhuntia/Business-Insight-360-for-AtliQ-Hardware-in-Power-BI-Public/blob/main/Marketing.gif)
 
 ## Supply chain View
 
-![Supply chain.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/supply%20chain.gif)
+![Supply chain.gif](https://github.com/chandreshkhuntia/Business-Insight-360-for-AtliQ-Hardware-in-Power-BI-Public/blob/main/supply%20chain.gif)
 
 ## Executive View
 
-![Executive.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Executive.gif)
-
-## Products
-
-![Products](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Products%20View.gif)
-
-you can find the full report file here : [Report]()
-
+![Executive.gif](https://github.com/chandreshkhuntia/Business-Insight-360-for-AtliQ-Hardware-in-Power-BI-Public/blob/main/Executive.gif
+)
 
 ## Project Outcome
 
